@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 琥珀色标签底（clip-tag 切角） -->
+  <path d="M2 0 H64 V62 L54 64 H0 V4 Z" fill="#ffb63d"/>
+  <!-- 深色 E 字 -->
+  <path d="M18 12 H46 V22 H30 V28 H43 V38 H30 V42 H47 V52 H18 Z" fill="#10131a"/>
+</svg>
